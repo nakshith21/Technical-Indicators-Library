@@ -3,7 +3,7 @@
 Custom implementation of RSI, MACD, and Bollinger Bands built from scratch using NumPy.
 
 ![Indicators Chart](AAPL_indicators.png)
-
+![Indicators Chart](TSLA_indicators.png)
 ## 🎯 What This Does
 
 Calculates three essential technical indicators used by professional traders:
