@@ -73,12 +73,6 @@ Bollinger Bands:
 - NumPy array operations for efficient calculations
 - Financial data visualization best practices
 
-## 🔮 Next Steps
-
-- [ ] Build mean reversion trading strategy using RSI
-- [ ] Backtest strategies with historical data
-- [ ] Add more indicators (Stochastic, ATR, ADX)
-- [ ] Create real-time dashboard
 
 ## 👨‍💻 Author
 
